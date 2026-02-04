@@ -32,6 +32,9 @@ It demonstrates a simple, professional interface for user authentication.
 2. Place the required image assets (`Capture.PNG`, `carbon--email.png`, `carbon--password.png`, `mdi--eye-outline.png`) in the same folder.  
 3. Open `login.html` in any modern web browser.  
 
+
+## Interface
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/b56b1524-7b30-40df-a849-31ebd6ff82e7" />
 ---
 
 ##  Author
